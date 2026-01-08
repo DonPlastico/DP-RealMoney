@@ -1,5 +1,19 @@
-# DP-REALMONEY (Dinero Real)
+<p align="center">
+<h1 align="center">DP-RealMoney</h1>
 
+<img width="960" height="auto" align="center" alt="DP-Banking Logo" src="Images (Can Remove it if u want)/Miniaturas YT.png" />
+
+</p>
+
+<div align="center">
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![FiveM](https://img.shields.io/badge/FiveM-Script-important)](https://fivem.net/)
+[![QBCore](https://img.shields.io/badge/QBCore-Framework-success)](<[https://qbcore-framework.github.io/qb-docs/](https://github.com/qbcore-framework)>)
+
+</div>
+
+<h2 align="center"> 📝 Descripción General</h2>
 Este script transforma el dinero virtual de QBCore (Efectivo, Dinero Negro y Criptomonedas) en **ítems físicos** dentro del inventario del jugador.
 
 A diferencia de otros scripts de "Cash as Item", **DP-REALMONEY** incluye una lógica de sincronización inteligente que respeta el orden de tu inventario.
