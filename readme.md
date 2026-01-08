@@ -1,7 +1,7 @@
 <p align="center">
 <h1 align="center">DP-RealMoney</h1>
 
-<img width="960" height="auto" align="center" alt="DP-Banking Logo" src="Images (Can Remove it if u want)/Miniaturas YT.png" />
+<img width="960" height="auto" align="center" alt="DP-Banking Logo" src="Images (Can Remove it if u want)/Miniatura.png" />
 
 </p>
 
